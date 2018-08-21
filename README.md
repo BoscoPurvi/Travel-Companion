@@ -1,7 +1,7 @@
-### Travel-Companion
+# Travel-Companion
 
 
-# Objective:
+## Objective:
        As students of this university the most common problem faced by us in our
        day to day life is to find a travel companion specially to split our travel fare 
        and also to enjoy our journey by not commencing it all alone. So our project is 
